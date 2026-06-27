@@ -65,12 +65,8 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=inpritive&theme=algolia&no-frame=true&margin-w=12"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=inpritive&theme=algolia&no-frame=true&row=1&column=7"/>
 </p>
-
----
 
 # 📈 Contribution Graph
 
@@ -102,7 +98,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://www.instagram.com/_jodxd/">
+<a href="https://www.instagram.com/inpritive/">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
