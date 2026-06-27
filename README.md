@@ -1,29 +1,42 @@
-[![@PritiKumari's Holopin board](https://holopin.me/your-holopin-username)](https://holopin.io/@your-holopin-username)
-
 <h1 align="center">Hi 👋, I'm Priti Kumari</h1>
-<h3 align="center">🚀 AI & Machine Learning Student | CSE Undergraduate | Future AI Engineer from India 🇮🇳</h3>
 
-<img align="right" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"/>
+<h3 align="center">
+🚀 AI & Machine Learning Student | CSE Undergraduate | Future AI Engineer from India 🇮🇳
+</h3>
 
-## 👩‍💻 About Me
-
-- 🎓 CSE Undergraduate at **SMVIT**
-- 🌱 Currently learning **Machine Learning, Deep Learning & LLMs**
-- 🤖 Exploring **Generative AI, LangChain, RAG & AI Applications**
-- 💻 Building AI & Full Stack Projects
-- 📚 Preparing for **AI/ML Internships**
-- 🎯 Goal: Become an AI Engineer at a top tech company
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Student;Learning+Machine+Learning+%26+LLMs;Exploring+Generative+AI;Python+%7C+SQL+%7C+MongoDB;Building+Projects+Every+Day" />
+</p>
 
 ---
 
-## 🚀 Currently Learning
+## 👩‍💻 About Me
 
-- 🧠 Machine Learning
-- 🤖 Large Language Models (LLMs)
+- 🎓 Computer Science & Engineering Student
+- 🌱 Currently learning **Machine Learning, Deep Learning, LLMs & Generative AI**
+- 💻 Building AI and Full-Stack projects
+- 🚀 Interested in Artificial Intelligence and Data Science
+- 📚 Preparing for AI/ML internships
+- 🎯 Goal: Become an AI Engineer
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,bootstrap,django,mysql,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- 🤖 Machine Learning
+- 🧠 Large Language Models (LLMs)
+- ✨ Generative AI
 - 📊 Data Science
-- 🐍 Python for AI
 - 🗄️ SQL & MongoDB
-- ☁️ Git & GitHub
+- 🌐 Git & GitHub
 
 ---
 
@@ -39,62 +52,20 @@
 
 ---
 
-## 📫 Reach Me
-
-📧 **Email:** **pritikumari06726@gmail.com**
-
-🔗 **LinkedIn:** https://linkedin.com/in/pritikumari067
-
-📷 **Instagram:** https://instagram.com/inpritive
-
----
-
-## 🌐 Connect with Me
+## 📫 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/pritikumari067" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://instagram.com/_jodxd" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
-
 <a href="mailto:pritikumari06726@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
-</p>
 
----
+<a href="https://www.linkedin.com/in/pritikumari067">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-<img src="https://skillicons.dev/icons?i=django"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
+<a href="https://www.instagram.com/_jodxd/">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
 </p>
 
 ---
@@ -103,54 +74,60 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=inpritive&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=10&no-frame=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# ✨ Quote
-
-<p align="center">
-
-> *"Learning one model at a time, building one project at a time."* 🚀
+<img height="170" src="https://streak-stats.demolab.com?user=inpritive&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
+## 💻 Most Used Languages
+
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inpritive&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=inpritive&theme=algolia&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=inpritive&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## ✨ Quote
+
+<p align="center">
+
+> **"Learning today, building tomorrow, innovating forever." 🚀**
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=inpritive&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
