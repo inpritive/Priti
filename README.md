@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Priti Kumari</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 AI & Machine Learning Student | CSE Undergraduate | Future AI Engineer from India 🇮🇳
-</h3>
+# Hi 👋, I'm Priti Kumari
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Student;Learning+Machine+Learning+%26+LLMs;Exploring+Generative+AI;Python+%7C+SQL+%7C+MongoDB;Building+Projects+Every+Day" />
-</p>
+### 🚀 AI & Machine Learning Student | CSE Undergraduate | Future AI Engineer 🇮🇳
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Generative+AI;Learning+LLMs+%26+Building+Projects;Open+Source+Learner;Always+Learning+Something+New+🚀" />
+
+<img src="https://komarev.com/ghpvc/?username=inpritive&label=Profile%20Views&style=for-the-badge&color=blue"/>
+
+</div>
 
 ---
 
@@ -14,59 +16,31 @@
 
 - 🎓 Computer Science & Engineering Student
 - 🌱 Currently learning **Machine Learning, Deep Learning, LLMs & Generative AI**
-- 💻 Building AI and Full-Stack projects
-- 🚀 Interested in Artificial Intelligence and Data Science
-- 📚 Preparing for AI/ML internships
+- 💻 Passionate about building AI-powered applications
+- 📚 Exploring Data Science, NLP and Full-Stack Development
 - 🎯 Goal: Become an AI Engineer
 
 ---
 
-## 🚀 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,bootstrap,django,mysql,mongodb,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,bootstrap,django,mysql,mongodb,git,github,vscode,linux"/>
+
 </p>
 
 ---
 
-## 📚 Currently Learning
+# 🚀 Currently Learning
 
 - 🤖 Machine Learning
-- 🧠 Large Language Models (LLMs)
+- 🧠 Deep Learning
 - ✨ Generative AI
-- 📊 Data Science
-- 🗄️ SQL & MongoDB
-- 🌐 Git & GitHub
-
----
-
-## 💬 Ask Me About
-
-- Python
-- Machine Learning
-- Generative AI
-- SQL
-- MongoDB
-- HTML & CSS
-- Git & GitHub
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-<a href="mailto:pritikumari06726@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pritikumari067">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://www.instagram.com/_jodxd/">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
-</p>
+- 📚 Large Language Models (LLMs)
+- 🔗 LangChain
+- 🗄 MongoDB
+- ☁ Git & GitHub
 
 ---
 
@@ -80,10 +54,6 @@
 
 </p>
 
----
-
-## 💻 Most Used Languages
-
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inpritive&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -92,17 +62,17 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=inpritive&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=inpritive&theme=algolia&no-frame=true&margin-w=12"/>
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -112,22 +82,50 @@
 
 ---
 
-## ✨ Quote
+# 🐍 Contribution Snake
 
 <p align="center">
 
-> **"Learning today, building tomorrow, innovating forever." 🚀**
+<img src="https://raw.githubusercontent.com/inpritive/inpritive/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </p>
 
 ---
 
+# 🌐 Connect With Me
+
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=inpritive&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<a href="mailto:pritikumari06726@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pritikumari067">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/_jodxd/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
 
 </p>
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+---
+
+# 💡 Quote
+
+<div align="center">
+
+> **"Learning every day, building with purpose, and growing through every challenge."**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving my repositories a star!
+
+⭐ **Thanks for visiting my profile!** ⭐
+
+</div>
